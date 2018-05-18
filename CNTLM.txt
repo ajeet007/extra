@@ -1,0 +1,11 @@
+CNTLM
+http://cntlm.sourceforge.net/
+
+
+generate encrypted password:
+********************************
+cntlm -c c:\cntlm-0.92.3\cntlm.ini -H
+
+Execute:
+********
+cntlm -c c:\cntlm-0.92.3\cntlm.ini -f
